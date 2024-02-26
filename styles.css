@@ -1,0 +1,15 @@
+.color-box {
+    width: 200px;
+    height: 200px;
+    border: 1px solid #ccc;
+  }
+  
+  #hexValue {
+    font-size: 18px;
+  }
+  
+  /* Estilos adicionales para centrar el color box */
+  .row.justify-content-center {
+    margin-top: 50px; /* Espacio superior */
+  }
+  
